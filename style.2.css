@@ -1,0 +1,16 @@
+.cabeçalho{
+    background-color: rgb(201, 115, 189);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.cabeçalho-titulo{
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.cabeçalho-imagem{
+    width: 800px;
+    border: 4px rgb(248, 123, 200);
+    border-radius: 12px;
+}
